@@ -1,0 +1,1088 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "urun_isim": " Abra A7 V13.2.3 Intel Core I5-11400h 16gb Ram 500gb Ssd 4gb Rtx3050ti Freedos 17.3",
+      "urun_fiyat": 19.499,
+      "urun_marka": 2,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty518/product/media/images/20220826/13/165993243/230886343/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 2,
+      "urun_isim": " Slayer 5xl-3050ti C2 I5-11400h 16gb 512gb 4gb Rtx3050ti 17.3",
+      "urun_fiyat": 19.667,
+      "urun_marka": "Game Garaj",
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty282/product/media/images/20211230/16/19158209/251708779/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 3,
+      "urun_isim": " Tuf Gamıng A15 Fx506lhb-hn347 Intel I5-10300h 8gb Ddr4 512gb Ssd Gtx1650 15.6",
+      "urun_fiyat": 13.999,
+      "urun_marka": 3,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/128/192/ty570/product/media/images/20221018/19/196779661/600048345/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 4,
+      "urun_isim": " Macbook Air 13'' M1 8gb 256gb Ssd Altın MGND3TU/A ",
+      "urun_fiyat": 20.395,
+      "urun_marka": 6,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty513/product/media/images/20220822/16/163937942/117736341/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 5,
+      "urun_isim": " Abra A5 V16.7.3 Intel Core I5-11400h 16gb Ram 500gb Ssd 4gb Gtx1650 Freedos 15.6",
+      "urun_fiyat": 16.624,
+      "urun_marka": 2,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty517/product/media/images/20220827/13/166320893/230410758/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 6,
+      "urun_isim": " Slayer 7XL-3050Ti C2 i7-11800H 16GB 512GB 4GB RTX3050Ti 17.3",
+      "urun_fiyat": 21.993,
+      "urun_marka": "Game Garaj",
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty283/product/media/images/20211230/16/19157488/251683698/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 7,
+      "urun_isim": " Aspire 3 A315-23 Amd Ryzen 5 3500u 8gb 256 Gb Ssd Freedos 15.6",
+      "urun_fiyat": 7.399,
+      "urun_marka": 9,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty514/product/media/images/20220822/12/163802925/134492302/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 8,
+      "urun_isim": " A315-34 IntelCeleron-4020 4GB 128GBSSD 15,6'' Siyah Dizüstü Bilgisayar(Acer Türkiye Garantili) NX.HE3EY.00C ",
+      "urun_fiyat": 5.399,
+      "urun_marka": 9,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/128/192/ty491/product/media/images/20220725/9/149428581/524078923/2/2_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 9,
+      "urun_isim": " Nirvana X500.1021-4P00X-G-F Intel I5-10210U 4GB RAM 250GB SSD FREEDOS 15.6",
+      "urun_fiyat": 7.499,
+      "urun_marka": 5,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/128/192/ty294/product/media/images/20220113/15/26098802/163572635/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 10,
+      "urun_isim": " Tuf Gamıng A15 Fa506ıcb-hn177 Amd Ryzen 5-4600h 8gb Ddr4 512gb Ssd Rtx3050 15.6",
+      "urun_fiyat": 15.399,
+      "urun_marka": 3,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty571/product/media/images/20221018/19/196779422/600047834/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 11,
+      "urun_isim": " Legion 7 Ryzen 7 5800h 32 Gb 1 Tb Ssd Rtx 3070 8gb 16",
+      "urun_fiyat": 41.99,
+      "urun_marka": 1,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty540/product/media/images/20220926/18/180091903/579192405/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 12,
+      "urun_isim": " Abra A5 V19.3.6 Intel Core I7-12700h 16 Gb Ram 1tb Ssd 4gb Rtx3050ti Freedos 15,6",
+      "urun_fiyat": 22.699,
+      "urun_marka": 2,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty510/product/media/images/20220819/12/162760212/547832018/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 13,
+      "urun_isim": " Rog Strıx G15 G513ıc-hn095 Amd Ryzen 7 4800h 16gb 1tb 4gb Rtx3050 Fhd 144hz Freedos G513IC-HN095 ",
+      "urun_fiyat": 20.849,
+      "urun_marka": 3,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty497/product/media/images/20220803/12/154045337/534585649/2/2_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 14,
+      "urun_isim": " Abra A7 V12.5.5 Intel Core I5-11400h 8gb Ram 500gb Ssd 4gb Gtx1650 Windows 11 17.3'' Fhd 144hz ",
+      "urun_fiyat": 16.91,
+      "urun_marka": 2,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty516/product/media/images/20220826/13/165989904/382016464/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 15,
+      "urun_isim": " Matebook D15 i5-1135G7 8GB 256GB SSD 15.6",
+      "urun_fiyat": 12.151,
+      "urun_marka": 7,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/128/192/ty428/product/media/images/20220510/17/109156679/476813292/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 16,
+      "urun_isim": " Abra A7 V13.2.3 Intel Core I5-11400h 16gb Ram 500gb Ssd 4gb Rtx3050ti Freedos 17.3",
+      "urun_fiyat": 19.499,
+      "urun_marka": 2,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/128/192/ty518/product/media/images/20220826/13/165993243/230886343/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 17,
+      "urun_isim": " Slayer 5xl-3050ti C2 I5-11400h 16gb 512gb 4gb Rtx3050ti 17.3",
+      "urun_fiyat": 19.667,
+      "urun_marka": "Game Garaj",
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty282/product/media/images/20211230/16/19158209/251708779/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 18,
+      "urun_isim": " Tuf Gamıng A15 Fx506lhb-hn347 Intel I5-10300h 8gb Ddr4 512gb Ssd Gtx1650 15.6",
+      "urun_fiyat": 13.999,
+      "urun_marka": 3,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty570/product/media/images/20221018/19/196779661/600048345/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 19,
+      "urun_isim": " Macbook Air 13'' M1 8gb 256gb Ssd Altın MGND3TU/A ",
+      "urun_fiyat": 20.395,
+      "urun_marka": 6,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty513/product/media/images/20220822/16/163937942/117736341/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 20,
+      "urun_isim": " Abra A5 V16.7.3 Intel Core I5-11400h 16gb Ram 500gb Ssd 4gb Gtx1650 Freedos 15.6",
+      "urun_fiyat": 16.624,
+      "urun_marka": 2,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty517/product/media/images/20220827/13/166320893/230410758/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 21,
+      "urun_isim": " Slayer 7XL-3050Ti C2 i7-11800H 16GB 512GB 4GB RTX3050Ti 17.3",
+      "urun_fiyat": 21.993,
+      "urun_marka": "Game Garaj",
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/128/192/ty283/product/media/images/20211230/16/19157488/251683698/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 22,
+      "urun_isim": " Aspire 3 A315-23 Amd Ryzen 5 3500u 8gb 256 Gb Ssd Freedos 15.6",
+      "urun_fiyat": 7.399,
+      "urun_marka": 9,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty514/product/media/images/20220822/12/163802925/134492302/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 23,
+      "urun_isim": " A315-34 IntelCeleron-4020 4GB 128GBSSD 15,6'' Siyah Dizüstü Bilgisayar(Acer Türkiye Garantili) NX.HE3EY.00C ",
+      "urun_fiyat": 5.399,
+      "urun_marka": 9,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty491/product/media/images/20220725/9/149428581/524078923/2/2_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 24,
+      "urun_isim": " Nirvana X500.1021-4P00X-G-F Intel I5-10210U 4GB RAM 250GB SSD FREEDOS 15.6",
+      "urun_fiyat": 7.499,
+      "urun_marka": 5,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty294/product/media/images/20220113/15/26098802/163572635/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 25,
+      "urun_isim": " Tuf Gamıng A15 Fa506ıcb-hn177 Amd Ryzen 5-4600h 8gb Ddr4 512gb Ssd Rtx3050 15.6",
+      "urun_fiyat": 15.399,
+      "urun_marka": 3,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty571/product/media/images/20221018/19/196779422/600047834/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 26,
+      "urun_isim": "Lenovo V14 G2 Itl Intel Core i5 1135G7 8GB 256GB SSD 14",
+      "urun_marka": 1,
+      "urun_fiyat": 10.199,
+      "urun_foto": "https://productimages.hepsiburada.net/s/280/550/110000266972576.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 27,
+      "urun_isim": "Acer Nitro 5 AN515-58 Intel Core I7 12700H 16 GB 512 GB SSD Rtx 3060 6 GB Freedos 15.6",
+      "urun_marka": 9,
+      "urun_fiyat": 27.999,
+      "urun_foto": "https://productimages.hepsiburada.net/s/285/550/110000274527437.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 28,
+      "urun_isim": "Dell Gaming G15 5511 Intel Core i7 11800H 16GB 512GB SSD RTX3050Ti Ubuntu 15.6\" FHD Taşınabilir Bilgisayar FB1180F165N",
+      "urun_marka": 8,
+      "urun_fiyat": 29.699,
+      "urun_foto": "https://productimages.hepsiburada.net/s/207/550/110000183442450.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 29,
+      "urun_isim": "Monster Abra A5 V18.1.1 Intel Core i7-11800H 16GB RAM 500GB SSD 4GB RTX3050 Windows 11 15.6'' FHD 144Hz Oyun Bilgisayarı",
+      "urun_marka": 2,
+      "urun_fiyat": 21.399,
+      "urun_foto": "https://productimages.hepsiburada.net/s/274/550/110000260906933.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 30,
+      "urun_isim": "Asus Tuf Gaming F15 FX506LHB-HN345 İntel Core I5-10300H 8 GB  512GB SSD 4 GB GTX1650 144 Hz Freedos 15.6\" FHD Taşınabilir Bilgisayar",
+      "urun_marka": 3,
+      "urun_fiyat": 15.199,
+      "urun_foto": "https://productimages.hepsiburada.net/s/292/550/110000281454647.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 31,
+      "urun_isim": "Asus Tuf Gamıng A15 FA506ICB-HN177 Amd Ryzen 5-4600H 8gb Ddr4 512GB Pcıe SSD 4gb RTX3050 15.6\" Fhd 144Hz Freedos",
+      "urun_marka": 3,
+      "urun_fiyat": 19.849,
+      "urun_foto": "https://productimages.hepsiburada.net/s/295/550/110000285746229.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 32,
+      "urun_isim": "Lenovo Ideapad 3 AMD Ryzen 3 3250U 8GB 256GB SSD Freedos 15.6\" FHD Taşınabilir Bilgisayar 82KR00CVTX",
+      "urun_marka": 1,
+      "urun_fiyat": 8.999,
+      "urun_foto": "https://productimages.hepsiburada.net/s/278/550/110000264486626.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 33,
+      "urun_isim": "Lenovo V15 İntel Core I7-1165G7 16GB 512GB SSD Freedos 15.6\" Fhd Taşınabilir Bilgisayar 82KB00CDTX",
+      "urun_marka": 1,
+      "urun_fiyat": 17.482,
+      "urun_foto": "https://productimages.hepsiburada.net/s/253/550/110000235682913.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 34,
+      "urun_isim": "Lenovo V14 G2 Itl Intel Core i5 1135G7 8GB 256GB SSD 14\" Full HD Freedos Taşınabilir Bilgisayar 82KA0025TX",
+      "urun_marka": 1,
+      "urun_fiyat": 10.199,
+      "urun_foto": "https://productimages.hepsiburada.net/s/280/550/110000266972576.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 35,
+      "urun_isim": "Lenovo Ideapad Gaming 3 82K100CLTX İntel Core i7 11370H 16GB 1TB+256 SSD RTX3050 15.6\" FHD Freedos Taşınabilir Bilgisayar",
+      "urun_marka": 1,
+      "urun_fiyat": 21.199,
+      "urun_foto": "https://productimages.hepsiburada.net/s/217/550/110000195945141.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 36,
+      "urun_isim": "HP Pavilion Gaming 15-DK2079NT Intel Core i7 11370H 16GB 512GB SSD RTX3050Ti Freedos 15.6\" IPS FHD Taşınabilir Bilgisayar 68N54EA",
+      "urun_marka": 11,
+      "urun_fiyat": 24,
+      "urun_foto": "https://productimages.hepsiburada.net/s/279/550/110000266002967.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 37,
+      "urun_isim": "Lenovo V14 G2 ITL Intel Core i5 1135G7 8GB 256GB SSD MX350 Freedos 14\" FHD Taşınabilir Bilgisayar 82KA00ECTX",
+      "urun_marka": 1,
+      "urun_fiyat": 10.599,
+      "urun_foto": "https://productimages.hepsiburada.net/s/265/550/110000249655771.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 38,
+      "urun_isim": "Dell Gaming G15 5511 Intel Core i7-11800H 8 GB Ram 512GB SSD 4gb RTX3050 15.6 Inç Fhd 120Hz G5TGLH1700U Taşınabilir Bilgisayar",
+      "urun_marka": 11,
+      "urun_fiyat": 20.999,
+      "urun_foto": "https://productimages.hepsiburada.net/s/293/550/110000282260826.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 39,
+      "urun_isim": "Monster Abra A5 V19.3.5 Intel Core i7-12700H 16GB RAM 500GB SSD 4GB RTX3050Ti FreeDOS 15,6\" FHD 144Hz Oyun Bilgisayarı",
+      "urun_marka": 2,
+      "urun_fiyat": 22.049,
+      "urun_foto": "https://productimages.hepsiburada.net/s/267/550/110000252781309.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 40,
+      "urun_isim": "Lenovo IdeaPad Gaming 3 Intel Core i5 11300H 16GB 512GB SSD RTX 3050Ti Freedos 15.6\" 165 Hz FHD Taşınabilir Bilgisayar 82K100CSTX",
+      "urun_marka": 1,
+      "urun_fiyat": 19.879,
+      "urun_foto": "https://productimages.hepsiburada.net/s/303/550/110000294804537.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 41,
+      "urun_isim": "Casper Excalibur G770.1140-BVL0X-B Intel Core i5 11400H 16GB 500GB SSD RTX3050TI Freedos 15.6\" FHD Taşınabilir Bilgisayar",
+      "urun_marka": 5,
+      "urun_fiyat": 20.819,
+      "urun_foto": "https://productimages.hepsiburada.net/s/181/550/110000145985112.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 42,
+      "urun_isim": "Acer Extensa EX215-54G Intel Core I5 1135G7 8 GB 512 GB SSD MX350 2 GB Freedos 15.6\" Fhd Taşınabilir Bilgisayar NX.EGHEY.003",
+      "urun_marka": 9,
+      "urun_fiyat": 11.199,
+      "urun_foto": "https://productimages.hepsiburada.net/s/286/550/110000274844135.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 43,
+      "urun_isim": "Hp Pavilion Gaming Laptop 15-EC2057NT Amd Ryzen 5 5600H 8 GB 512 GB SSD Rtx 3050 144 Hz Freedos 15.6\" FHD Taşınabilir Bilgisayar 68N72EA",
+      "urun_marka": 11,
+      "urun_fiyat": 16.099,
+      "urun_foto": "https://productimages.hepsiburada.net/s/211/550/110000188588551.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 44,
+      "urun_isim": "Lenovo ThinkBook 15 G3 ACL AMD Ryzen 7 5700U 16 GB 512 GB SSD 15.6\" FHD Taşınabilir Bilgisayar 21A40036TX",
+      "urun_marka": 1,
+      "urun_fiyat": 13.796,
+      "urun_foto": "https://productimages.hepsiburada.net/s/218/550/110000196422021.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 45,
+      "urun_isim": "HP Gaming Pavilion 15 DK2069NT 54T25EA Intel Core i5 11300H 16 GB Ram 512 GB SSD 4 GB RTX3050Ti Freedos 15.6\" FHD Taşınabilir Bilgisayar",
+      "urun_marka": 11,
+      "urun_fiyat": 18.499,
+      "urun_foto": "https://productimages.hepsiburada.net/s/280/550/110000267735844.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 46,
+      "urun_isim": "Lenovo V15 İntel Core I7-1165G7 16GB 512GB SSD Freedos 15.6\" Fhd Taşınabilir Bilgisayar 82KB00CDTX",
+      "urun_marka": 1,
+      "urun_fiyat": 17.482,
+      "urun_foto": "https://productimages.hepsiburada.net/s/253/550/110000235682913.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 47,
+      "urun_isim": "Lenovo V14 G2 Itl Intel Core i5 1135G7 8GB 256GB SSD 14\" Full HD Freedos Taşınabilir Bilgisayar 82KA0025TX",
+      "urun_marka": 1,
+      "urun_fiyat": 10.199,
+      "urun_foto": "https://productimages.hepsiburada.net/s/280/550/110000266972576.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 48,
+      "urun_isim": "Lenovo Ideapad Gaming 3 82K100CLTX İntel Core i7 11370H 16GB 1TB+256 SSD RTX3050 15.6\" FHD Freedos Taşınabilir Bilgisayar",
+      "urun_marka": 1,
+      "urun_fiyat": 21.199,
+      "urun_foto": "https://productimages.hepsiburada.net/s/217/550/110000195945141.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 49,
+      "urun_isim": "HP Pavilion Gaming 15-DK2079NT Intel Core i7 11370H 16GB 512GB SSD RTX3050Ti Freedos 15.6\" IPS FHD Taşınabilir Bilgisayar 68N54EA",
+      "urun_marka": 11,
+      "urun_fiyat": 24,
+      "urun_foto": "https://productimages.hepsiburada.net/s/279/550/110000266002967.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 50,
+      "urun_isim": "Lenovo V14 G2 ITL Intel Core i5 1135G7 8GB 256GB SSD MX350 Freedos 14\" FHD Taşınabilir Bilgisayar 82KA00ECTX",
+      "urun_marka": 1,
+      "urun_fiyat": 10.599,
+      "urun_foto": "https://productimages.hepsiburada.net/s/265/550/110000249655771.jpg",
+      "websiteadi": "HEPSİBURADA"
+    },
+    {
+      "id": 51,
+      "urun_isim": "Lenovo IdeaPad 3 15ITL6 82H802F6TX i5-1135G7 8 GB 1 TB SSD 15.6",
+      "urun_fiyat": 13.106,
+      "urun_marka": 1,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/09/09/21/55/IMG-1155821760706603486.png",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 52,
+      "urun_isim": "Lenovo V15 G2 82KB00CATX i5-1135G7 8 GB 512 GB SSD Dizüstü Bilgisayar + 1 Yıl Garanti Uzatma Paketi",
+      "urun_fiyat": 11.499,
+      "urun_marka": 1,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/03/76/83/12/IMG-1090136237027115848.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 53,
+      "urun_isim": "Asus VivoBook 15 Oled D513UA-L1346 Ryzen 5 5500U 8 GB 512 GB SSD 15.6",
+      "urun_fiyat": 10.649,
+      "urun_marka": 3,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/07/73/86/29/IMG-2093819086732100927.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 54,
+      "urun_isim": "Asus X415EA-EK977 i5-1135G7 8 GB 256 GB SSD 14",
+      "urun_fiyat": 10.498,
+      "urun_marka": 3,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/08/98/96/55/IMG-2348375859564953371.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 55,
+      "urun_isim": "Asus X515EA-BQ1843N11 i5-1135G7 24 GB 1 TB SSD 15.6",
+      "urun_fiyat": 14.559,
+      "urun_marka": 3,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/11/16/04/94/IMG-5766758685507056547.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 56,
+      "urun_isim": "HP 250 G9 6Q8M7ES07 i5-1235U 8 GB 512 GB SSD MX550 15.6",
+      "urun_fiyat": 17.879,
+      "urun_marka": 11,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/14/12/57/53/IMG-6556263081573840523.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 57,
+      "urun_isim": "Lenovo ThinkPad E14 G2 20TKNLJDNY35TX2P i5-1135G7 16 GB 512 GB SSD 14",
+      "urun_fiyat": 19.699,
+      "urun_marka": 1,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/16/80/89/07/IMG-1029467434742168040.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 58,
+      "urun_isim": "Lenovo V14 G2 ITL 82KA00ECTX024 i5-1135G7 8 GB 512 GB SSD MX350 14",
+      "urun_fiyat": 16.099,
+      "urun_marka": 1,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/13/43/57/37/IMG-4716908092302857670.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 59,
+      "urun_isim": "Casper Nirvana S500 1135-8E00T-G-F i5-1135G7 8 GB 500 GB 15.6",
+      "urun_fiyat": 12.999,
+      "urun_marka": 5,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/03/87/84/60/IMG-4829978347158449958.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 60,
+      "urun_isim": "Lenovo ThinkPad E14 G2 20TA0050TX019 i7-1165G7 16 GB 1 TB SSD 14",
+      "urun_fiyat": 25.218,
+      "urun_marka": 1,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/16/80/89/07/IMG-1029467434742168040.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 61,
+      "urun_isim": "Lenovo V14 82C400A8TXZ14 i5-1035G1 4 GB 1 TB+128 GB SSD 14",
+      "urun_fiyat": 11.963,
+      "urun_marka": 1,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/03/16/77/65/TMP-7194443864689623707.png",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 62,
+      "urun_isim": "Apple MacBook Pro Z11B00098 Apple M1 8C 16 GB 256 GB SSD 13.3",
+      "urun_fiyat": 32.137,
+      "urun_marka": 6,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/14/46/12/52/65018773.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 63,
+      "urun_isim": "Lenovo IdeaPad 3 15ALC6 82KU00VNTXA133 R7-5700U 20 GB 2 TB HDD+256 GB 15.6",
+      "urun_fiyat": 15.788,
+      "urun_marka": 1,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/13/34/95/34/IMG-6165737376437550261.png",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 64,
+      "urun_isim": "Asus ExpertBook B9 B9400CEA-KC0932 i7-1165G7 8 GB 512 GB 14",
+      "urun_fiyat": 38.826,
+      "urun_marka": 3,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/08/29/64/56/IMG-794279697445441631.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 65,
+      "urun_isim": "HP 255 G8 4P3M4ESZ3 Ryzen 7 5700U 16 GB 256 GB SSD 15.6",
+      "urun_fiyat": 13.68,
+      "urun_marka": 11,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/09/57/83/61/IMG-4555697718613602701.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 66,
+      "urun_isim": "HP 240 G8 34P71ES1 i5-1035G1 8 GB 256 GB SSD 14",
+      "urun_fiyat": 13.83,
+      "urun_marka": 11,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/10/10/82/96/46004899.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 67,
+      "urun_isim": "Lenovo IdeaPad 3 15ALC6 82KU00VNTXA96 R7-5700U 12 GB 2 TB HDD+256 GB 15.6",
+      "urun_fiyat": 15.224,
+      "urun_marka": 1,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/13/34/95/34/IMG-6165737376437550261.png",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 68,
+      "urun_isim": "HP 250 G9 6Q8M5ES18 i5-1235U 16 GB 1 TB SSD 15.6",
+      "urun_fiyat": 14.819,
+      "urun_marka": 11,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/12/87/14/18/IMG-6859057853432957565.png",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 69,
+      "urun_isim": "Asus ExpertBook B1 B1500CEAE-BQ2664AB49 i7-1165G7 24 GB 512 GB SSD 15.6",
+      "urun_fiyat": 19.876,
+      "urun_marka": 3,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/07/43/25/68/IMG-8555038390028491610.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 70,
+      "urun_isim": "Lenovo ThinkPad E15 G2 20TD004LTX006 i7-1165G7 32 GB 256 GB SSD MX450 15.6",
+      "urun_fiyat": 23.966,
+      "urun_marka": 1,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/04/66/10/30/IMG-2129575737429696665.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 71,
+      "urun_isim": "Lenovo V14 G2 ITL 82KA006XTX13 i5-1135G7 40 GB 1 TB SSD 14",
+      "urun_fiyat": 17.299,
+      "urun_marka": 1,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/06/94/38/88/IMG-8163215814618903792.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 72,
+      "urun_isim": "Asus ExpertBook B1 B1500CEAE-BQ2664AB54 i7-1165G7 24 GB 1 TB SSD 15.6",
+      "urun_fiyat": 20.815,
+      "urun_marka": 3,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/07/43/25/68/IMG-8555038390028491610.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 73,
+      "urun_isim": "Asus X515JF-BQ036P i5-1035G1 8 GB 512 GB SSD MX130 15.6",
+      "urun_fiyat": 15.799,
+      "urun_marka": 3,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/14/58/17/35/IMG-5823743530050346787.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 74,
+      "urun_isim": "Lenovo ThinkPad E15 Gen 2 20TD004DTX007 i5-1135G7 32 GB 512 GB SSD 15.6",
+      "urun_fiyat": 21.084,
+      "urun_marka": 1,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/13/00/61/92/IMG-7918900509522827220.jpg",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 75,
+      "urun_isim": "HP 250 G9 6Q8M5ES11 i5-1235U 16 GB 512 GB SSD 15.6",
+      "urun_fiyat": 14.039,
+      "urun_marka": 11,
+      "urun_foto": "https://n11scdn.akamaized.net/a1/602_857/12/87/14/18/IMG-6859057853432957565.png",
+      "websiteadi": "N11"
+    },
+    {
+      "id": 76,
+      "urun_isim": "Hp Envy 13",
+      "urun_marka": 11,
+      "urun_fiyat": 11.999,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/129026_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 77,
+      "urun_isim": "Hp Pavilion 15",
+      "urun_marka": 11,
+      "urun_fiyat": 11.499,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/129024_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 78,
+      "urun_isim": "Asus Zenbook 14 UM425 5.Nesil Ryzen 5 5500U",
+      "urun_marka": 3,
+      "urun_fiyat": 22.999,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/128983_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 79,
+      "urun_isim": "Msi Summit E13 Flip Evo 11.Nesil Core i7 1185G7",
+      "urun_marka": 4,
+      "urun_fiyat": 43.171,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/msi/thumb/128973-1_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 80,
+      "urun_isim": "Asus Rog Strix G15 5.Nesil Ryzen 9 5900HX",
+      "urun_marka": 3,
+      "urun_fiyat": 62.999,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/128943-9_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 81,
+      "urun_isim": "Asus Rog Strix G15 4.Nesil Ryzen 7 4800H",
+      "urun_marka": 3,
+      "urun_fiyat": 27.99,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/128943_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 82,
+      "urun_isim": "Asus Tuf Gaming F15 11.Nesil Core i5 11400H",
+      "urun_marka": 3,
+      "urun_fiyat": 28.586,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/128938_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 83,
+      "urun_isim": "Asus X515ep 11.Nesil Core i7 1165G7",
+      "urun_marka": 3,
+      "urun_fiyat": 19.999,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/128935-1-1_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 84,
+      "urun_isim": "Hp Envy X360 15",
+      "urun_marka": 11,
+      "urun_fiyat": 12.999,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/128537_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 85,
+      "urun_isim": "Omen By Hp 15",
+      "urun_marka": "Omen",
+      "urun_fiyat": 26.999,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/128528-1-1_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 86,
+      "urun_isim": "Hp Pavilion 15",
+      "urun_marka": 11,
+      "urun_fiyat": 17.999,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/128518-1_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 87,
+      "urun_isim": "Hp Pavilion 14",
+      "urun_marka": 11,
+      "urun_fiyat": 10.999,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/128508_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 88,
+      "urun_isim": "Acer Aspire 7 10.Nesil Core i5 10300H",
+      "urun_marka": 9,
+      "urun_fiyat": 18.221,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/acer/thumb/128172_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 89,
+      "urun_isim": "Acer Aspire 3 A315 Amd A4",
+      "urun_marka": 9,
+      "urun_fiyat": 6.507,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/acer/thumb/127721_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 90,
+      "urun_isim": "Asus Tuf Gaming 15 10.Nesil Core i5 10300H",
+      "urun_marka": 3,
+      "urun_fiyat": 19.999,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/127665_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 91,
+      "urun_isim": "Asus Rog Zephyrus G14 5.Nesil Ryzen 7 5800HS",
+      "urun_marka": 3,
+      "urun_fiyat": 26.999,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/127664_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 92,
+      "urun_isim": "Huawei Matebook 14 11.Nesil Core i5 1135G7 2.4GHZ",
+      "urun_marka": 7,
+      "urun_fiyat": 18.999,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/huawei/thumb/127653_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 93,
+      "urun_isim": "Msi Pulse Gl76 11.Nesil Core i7 11800H",
+      "urun_marka": 4,
+      "urun_fiyat": 42.429,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/msi/thumb/127640_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 94,
+      "urun_isim": "Hp Pavilion 16",
+      "urun_marka": 11,
+      "urun_fiyat": 18.999,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/127547_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 95,
+      "urun_isim": "Acer Predator 10.Nesil Core i5 10300H",
+      "urun_marka": 9,
+      "urun_fiyat": 29.153,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/acer/thumb/1-1_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 96,
+      "urun_isim": "Acer Nitro 5 10.Nesil Core i5 10300H",
+      "urun_marka": 9,
+      "urun_fiyat": 19.499,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/acer/thumb/1_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 97,
+      "urun_isim": "Hp Envy X360 Evo 13",
+      "urun_marka": 11,
+      "urun_fiyat": 13.999,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/125587-1-1_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 98,
+      "urun_isim": "Acer Predator 10.Nesil Core i5 10300H",
+      "urun_marka": 9,
+      "urun_fiyat": 27.331,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/acer/thumb/125374_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 99,
+      "urun_isim": "Acer Nitro 5 4.Nesil Ryzen 5 4600H",
+      "urun_marka": 9,
+      "urun_fiyat": 20.017,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/acer/thumb/123276_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 100,
+      "urun_isim": "Msi Pulse Gl66 11.Nesil Core i7 11800H",
+      "urun_marka": 4,
+      "urun_fiyat": 31.366,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/msi/thumb/123275_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 101,
+      "urun_isim": "Asus X515JA-EJ2120A3 i7-1065G7 16 GB 512 GB SSD 15.6",
+      "urun_fiyat": 14.447,
+      "urun_marka": 3,
+      "websiteadi": "https://www.n11.com/urun/asus-x515ja-ej2120a3-i7-1065g7-16-gb-512-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-9018326?magaza=arcadia-bilisim",
+      "urun_foto": "N11"
+    },
+    {
+      "id": 102,
+      "urun_isim": "Dell Inspiron 5415 I54151012WH Ryzen 5 5500U 8 GB 256 GB SSD 14",
+      "urun_fiyat": 9.299,
+      "urun_marka": 8,
+      "websiteadi": "https://www.n11.com/urun/dell-inspiron-5415-i54151012wh-ryzen-5-5500u-8-gb-256-gb-ssd-14-w11h-dizustu-bilgisayar-20548389?magaza=gti-bilisim",
+      "urun_foto": "N11"
+    },
+    {
+      "id": 103,
+      "urun_isim": "Acer Nitro 5 AN517 NH.QFCEY.002 i7-11800H 16 GB 512 GB RTX3070 17.3",
+      "urun_fiyat": 30.168,
+      "urun_marka": 9,
+      "websiteadi": "https://www.n11.com/urun/acer-nitro-5-an517-nhqfcey002-i7-11800h-16-gb-512-gb-rtx3070-173-linux-dizustu-bilgisayar-19014354?magaza=garajonline",
+      "urun_foto": "N11"
+    },
+    {
+      "id": 104,
+      "urun_isim": "MacBook Air MGND3TU/A M1 8Gb",
+      "urun_marka": 6,
+      "urun_fiyat": 20.999,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/114751_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 105,
+      "urun_isim": "MacBook Air MGN63TU/A M1 8Gb",
+      "urun_marka": 6,
+      "urun_fiyat": 20.999,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/114746_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 106,
+      "urun_isim": "Asus Expertbook P5440fa 8.Nesil Core i7 8565U",
+      "urun_marka": 3,
+      "urun_fiyat": 26.262,
+      "urun_foto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/110371_small.jpg",
+      "websiteadi": "VATANBİLGİSAYAR"
+    },
+    {
+      "id": 107,
+      "urun_isim": " Abra A5 V19.3.6 Intel Core I7-12700h 16 Gb Ram 1tb Ssd 4gb Rtx3050ti Freedos 15,6",
+      "urun_fiyat": 22.699,
+      "urun_marka": 2,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty510/product/media/images/20220819/12/162760212/547832018/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 108,
+      "urun_isim": " Rog Strıx G15 G513ıc-hn095 Amd Ryzen 7 4800h 16gb 1tb 4gb Rtx3050 Fhd 144hz Freedos G513IC-HN095 ",
+      "urun_fiyat": 20.849,
+      "urun_marka": 3,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty497/product/media/images/20220803/12/154045337/534585649/2/2_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 109,
+      "urun_isim": " Abra A7 V12.5.5 Intel Core I5-11400h 8gb Ram 500gb Ssd 4gb Gtx1650 Windows 11 17.3'' Fhd 144hz ",
+      "urun_fiyat": 16.91,
+      "urun_marka": 2,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty516/product/media/images/20220826/13/165989904/382016464/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "id": 110,
+      "urun_isim": " Matebook D15 i5-1135G7 8GB 256GB SSD 15.6",
+      "urun_fiyat": 12.151,
+      "urun_marka": 7,
+      "urun_foto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty428/product/media/images/20220510/17/109156679/476813292/1/1_org_zoom.jpg",
+      "websiteadi": "Trendyol"
+    },
+    {
+      "name": "casper",
+      "price": 12,
+      "description": "nirvana",
+      "image": "ythth",
+      "urun_marka": "5",
+      "id": 111
+    },
+    {
+      "name": "bilgisayarrrr",
+      "price": 190000,
+      "description": "Lenovo",
+      "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty513/product/media/images/20220822/16/163937942/117736341/1/1_org_zoom.jpg",
+      "urun_marka": "1",
+      "id": 112
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Lenovo"
+    },
+    {
+      "id": 2,
+      "name": "Monster"
+    },
+    {
+      "id": 3,
+      "name": "Asus"
+    },
+    {
+      "id": 4,
+      "name": "MSI"
+    },
+    {
+      "id": 5,
+      "name": "Casper"
+    },
+    {
+      "id": 6,
+      "name": "Apple"
+    },
+    {
+      "id": 7,
+      "name": "Huawei"
+    },
+    {
+      "id": 8,
+      "name": "Dell"
+    },
+    {
+      "id": 9,
+      "name": "Acer"
+    },
+    {
+      "id": 10,
+      "name": "Everest"
+    },
+    {
+      "id": 11,
+      "name": "HP"
+    }
+  ],
+  "users": [
+    {
+      "email": "a@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "12345",
+      "id": 6
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "12345",
+      "id": 7
+    },
+    {
+      "email": "b@gmail.com",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "email": "em@gmail.com",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "email": "b@gmail.com",
+      "password": "123",
+      "id": 10
+    },
+    {
+      "email": "b@gmail.com",
+      "password": "123",
+      "id": 11
+    },
+    {
+      "email": "b@gmail.com",
+      "password": "123",
+      "id": 12
+    }
+  ],
+  "registers": [
+    {
+      "name": "a",
+      "email": "a@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "begüm",
+      "email": "ervasude37@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "halime",
+      "email": "halime@gmail.com",
+      "password": "123456789",
+      "id": 3
+    },
+    {
+      "name": "emine",
+      "email": "emine123@hotmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "şevval",
+      "email": "şevval987@gmail.com",
+      "password": "şevval987",
+      "id": 5
+    },
+    {
+      "name": "şevval",
+      "email": "şevval987@gmail.com",
+      "password": "şevval987",
+      "id": 6
+    },
+    {
+      "name": "şevval",
+      "email": "şevval987@gmail.com",
+      "password": "şevval987",
+      "id": 7
+    },
+    {
+      "name": "şevval",
+      "email": "şevval987@gmail.com",
+      "password": "şevval987",
+      "id": 8
+    },
+    {
+      "name": "şevval",
+      "email": "şevval987@gmail.com",
+      "password": "şevval987",
+      "id": 9
+    },
+    {
+      "name": "şevval",
+      "email": "şevval987@gmail.com",
+      "password": "şevval987",
+      "id": 10
+    },
+    {
+      "name": "azer",
+      "email": "azerbülbül@hotmail.com",
+      "password": "azerbülbül",
+      "id": 11
+    },
+    {
+      "name": "alihan",
+      "email": "abc@gmail.com",
+      "password": "abc123",
+      "id": 12
+    },
+    {
+      "name": "emine ",
+      "email": "em@gmail.com",
+      "password": "123",
+      "id": 13
+    }
+  ]
+}
